@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+body {
+  background: #f5f7fa;
+  color: #333;
+}
+
+/* HEADER */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  background: #111;
+  color: white;
+}
+
+header button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* CONTAINER */
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 40px;
+}
+
+/* CARDS */
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 20px;
+}
+
+/* DARK MODE */
+.dark {
+  background: #121212;
+  color: white;
+}
+
+.dark header {
+  background: #000;
+}
+
+.dark .card {
+  background: #1e1e1e;
+}
