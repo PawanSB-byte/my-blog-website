@@ -1,6 +1,6 @@
 """
 Project: Simple Blog Application
-Name: KUMAR SUBODH
+Name: Pawan Singh Bisht
 Date: 03-04-2026
 Description: A basic CRUD blog using Flask (no database)
 """
