@@ -1,4 +1,4 @@
-# 🚀 Subodh's Blog Website
+# 🚀 Pawan's Blog Website
 
 A modern and responsive blog website built using HTML, CSS, and JavaScript.
 This project is hosted using GitHub Pages.
@@ -7,7 +7,7 @@ This project is hosted using GitHub Pages.
 
 ## 🌐 Live Website
 
-👉 https://kumarsubodh12.github.io/my-blog-website/
+👉 https://PawanSB-byte.github.io/my-blog-website/
 
 ---
 
@@ -43,7 +43,7 @@ my-blog-website/
 1. Clone the repository:
 
 ```
-git clone https://github.com/kumarsubodh12/my-blog-website.git
+git clone https://github.com/PawanSB-byte/my-blog-website.git
 ```
 
 2. Open the folder
@@ -68,7 +68,7 @@ index.html
 
 ## 👨‍💻 Author
 
-**Subodh Kumar**
+**Pawan**
 
 ---
 
